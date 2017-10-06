@@ -1,0 +1,13 @@
+1:{'Signal': 1, 'Shares': 200, 'Returns': 0, 'Funds': 29289.300000000003, 'TotalCost': -70710.699999999997, 'Timestamp': 1507305547.0652163, 'Price': 353.55000000000001, 'Commission': 0.0035}
+2:{'Signal': 0, 'Shares': 200, 'Returns': 0.00080044462860651144, 'Funds': 100056.60000000001, 'TotalCost': 70767.300000000003, 'Timestamp': 1507306478.1970527, 'Price': 353.83999999999997, 'Commission': 0.0035}
+3:{'Signal': 1, 'Shares': 200, 'Returns': 0, 'Funds': 29370.680000000008, 'TotalCost': -70685.919999999998, 'Timestamp': 1507306730.9231591, 'Price': 353.42610000000002, 'Commission': 0.0035}
+4:{'Signal': 0, 'Shares': 200, 'Returns': 0.0030187058469353101, 'Funds': 100269.98000000001, 'TotalCost': 70899.300000000003, 'Timestamp': 1507308855.8793988, 'Price': 354.5, 'Commission': 0.0035}
+5:{'Signal': 1, 'Shares': 200, 'Returns': 0, 'Funds': 29261.280000000013, 'TotalCost': -71008.699999999997, 'Timestamp': 1507309361.516931, 'Price': 355.04000000000002, 'Commission': 0.0035}
+6:{'Signal': 0, 'Shares': 200, 'Returns': 0.0056133966682956338, 'Funds': 100668.58000000002, 'TotalCost': 71407.300000000003, 'Timestamp': 1507310423.1852345, 'Price': 357.04000000000002, 'Commission': 0.0035}
+7:{'Signal': 1, 'Shares': 200, 'Returns': 0, 'Funds': 29205.880000000019, 'TotalCost': -71462.699999999997, 'Timestamp': 1507310925.8990612, 'Price': 357.31, 'Commission': 0.0035}
+8:{'Signal': 0, 'Shares': 200, 'Returns': 0.00031624889627734909, 'Funds': 100691.18000000002, 'TotalCost': 71485.300000000003, 'Timestamp': 1507311173.7942128, 'Price': 357.43000000000001, 'Commission': 0.0035}
+9:{'Signal': 1, 'Shares': 200, 'Returns': 0, 'Funds': 29189.480000000025, 'TotalCost': -71501.699999999997, 'Timestamp': 1507311296.0421627, 'Price': 357.505, 'Commission': 0.0035}
+10:{'Signal': 0, 'Shares': 200, 'Returns': 0.00041397617119631747, 'Funds': 100720.78000000004, 'TotalCost': 71531.300000000017, 'Timestamp': 1507311607.918768, 'Price': 357.66000000000003, 'Commission': 0.0035}
+11:{'Signal': 1, 'Shares': 200, 'Returns': 0, 'Funds': 29133.080000000045, 'TotalCost': -71587.699999999997, 'Timestamp': 1507311731.3403645, 'Price': 357.935, 'Commission': 0.0035}
+12:{'Signal': 0, 'Shares': 200, 'Returns': 0.0035142908628160718, 'Funds': 100972.36000000006, 'TotalCost': 71839.280000000013, 'Timestamp': 1507312981.5201674, 'Price': 359.19990000000001, 'Commission': 0.0035}
+13:{'Signal': 1, 'Shares': 200, 'Returns': 0, 'Funds': 29103.660000000076, 'TotalCost': -71868.699999999983, 'Timestamp': 1507313550.645729, 'Price': 359.33999999999997, 'Commission': 0.0035}

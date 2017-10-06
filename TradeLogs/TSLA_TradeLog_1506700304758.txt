@@ -1,0 +1,5 @@
+1:{'TotalCost': -68770.300000000003, 'Signal': 1, 'Timestamp': 1506700373.23851, 'Returns': 0, 'Commission': 0.0035, 'Price': 343.84800000000001, 'Shares': 200, 'Funds': 31229.699999999997}
+2:{'TotalCost': 68783.279999999999, 'Signal': 0, 'Timestamp': 1506700929.4645312, 'Returns': 0.00018874426896497987, 'Commission': 0.0035, 'Price': 343.91989999999998, 'Shares': 200, 'Funds': 100012.98}
+3:{'TotalCost': -68734.719999999987, 'Signal': 1, 'Timestamp': 1506701056.2198668, 'Returns': 0, 'Commission': 0.0035, 'Price': 343.67009999999999, 'Shares': 200, 'Funds': 31278.260000000009}
+4:{'TotalCost': 68808.200000000012, 'Signal': 0, 'Timestamp': 1506701307.3415442, 'Returns': 0.0010690375984658829, 'Commission': 0.0035, 'Price': 344.04450000000003, 'Shares': 200, 'Funds': 100086.46000000002}
+5:{'TotalCost': -68812.699999999997, 'Signal': 1, 'Timestamp': 1506701433.241996, 'Returns': 0, 'Commission': 0.0035, 'Price': 344.06, 'Shares': 200, 'Funds': 31273.760000000024}
