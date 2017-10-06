@@ -1,0 +1,3 @@
+1:{'Commission': 0.0035, 'Returns': 0, 'TotalCost': -98564.050000000003, 'Funds': 1435.9499999999971, 'Signal': 1, 'Price': 75.814999999999998, 'Shares': 1300, 'Timestamp': 1507305652.4582076}
+2:{'Commission': 0.0035, 'Returns': 0.00096282569557559761, 'TotalCost': 98658.949999999997, 'Funds': 100094.89999999999, 'Signal': 0, 'Price': 75.894999999999996, 'Shares': 1300, 'Timestamp': 1507308045.778019}
+3:{'Commission': 0.0035, 'Returns': 0, 'TotalCost': -98700.550000000003, 'Funds': 1394.3499999999913, 'Signal': 1, 'Price': 75.920000000000002, 'Shares': 1300, 'Timestamp': 1507308366.0041766}
