@@ -14,7 +14,7 @@ SQM_TradeLog_1507305557312.txt
 5:{'Signal': 1, 'Funds': 1591.2499999999854, 'TotalCost': -99812.950000000012, 'Commission': 0.0035, 'Timestamp': 1507317746.510177, 'Price': 58.710000000000001, 'Returns': 0, 'Shares': 1700}
 ```
 
-### Example
+### Example Shortened
 ____________
 ```python
 import forwardRunner
